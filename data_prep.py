@@ -12,6 +12,7 @@ import random
 import time 
 from sklearn.metrics import f1_score
 import matplotlib.pyplot as plt 
+import seaborn as sns
 # Input data files are available in the "../input/" directory.
 # For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
 
