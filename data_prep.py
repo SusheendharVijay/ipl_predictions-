@@ -8,6 +8,8 @@ import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import tqdm
 pd.set_option('display.max_columns',100)
 pd.set_option('display.max_rows',100)
+import random
+import time 
 # Input data files are available in the "../input/" directory.
 # For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
 
